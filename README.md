@@ -48,3 +48,7 @@ I learned how to style a checkbox into a toggle button with CSS.
   cursor: pointer;
 }
 ```
+
+### Live Website
+
+Check out the live website [here](https://urkenzy.github.io/social-media-dashboard/).
